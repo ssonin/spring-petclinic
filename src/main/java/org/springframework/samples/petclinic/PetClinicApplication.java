@@ -29,7 +29,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PetClinicApplication {
 
     public static void main(String[] args) throws Exception {
-        // comment to test Jenkins triggering build on commit
+        // comment to test Jenkins triggering build on commit (try 1)
         SpringApplication.run(PetClinicApplication.class, args);
     }
 
